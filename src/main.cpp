@@ -7,7 +7,7 @@ int main() {
     sf::CircleShape circle(50); // Radio del círculo
 
     // Configurar el color del círculo
-    circle.setFillColor(sf::Color::Blue);
+    circle.setFillColor(sf::Color::Red);
 
     while (window.isOpen()) {
         sf::Event event;
